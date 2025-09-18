@@ -1,0 +1,16 @@
+# Development files
+.DS_Store
+.git/
+.gitignore
+.idea/
+
+# Example and demo files
+index.html
+fullscreen.html
+upload.php
+
+# Documentation
+README.md
+
+# jQuery plugin manifest (not needed for NPM)
+wPaint.jquery.json

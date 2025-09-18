@@ -1,0 +1,25 @@
+{
+  "name": "@orbeon/wpaint",
+  "version": "1.13.1-orbeon.1",
+  "description": "jQuery Paint Plugin - Orbeon fork",
+  "main": "wPaint.js",
+  "files": [
+    "wPaint.js",
+    "wPaint.css",
+    "images/",
+    "inc/"
+  ],
+  "author": {
+    "name": "Rob Nova",
+    "email": "rob@websanova.com",
+    "url": "http://websanova.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orbeon/wPaint.git"
+  },
+  "peerDependencies": {
+    "jquery": ">=1.5"
+  }
+}
